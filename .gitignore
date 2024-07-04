@@ -1,0 +1,6 @@
+obj/
+.DS_Store
+__pycache__/
+
+compare.py 
+run.py 
